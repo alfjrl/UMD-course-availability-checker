@@ -1,7 +1,7 @@
 <!-- PROJECT Title -->
 <br />
 <div align="center">
-  <h3 align="center">UMD course availability checker</h3>
+  <h1 align="center">UMD course availability checker</h3>
   <p align="center">
     using python to get the website data and push Line Notify message accordingly
   </p>
