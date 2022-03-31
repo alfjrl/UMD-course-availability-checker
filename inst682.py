@@ -32,7 +32,7 @@ print(result_text)
 
 checkPoint = int(result_text)
 
-if 1 > 0:
+if checkPoint > 0:
     token = "h3V6o4fQUxqOOzj11AJXOm508hFHrb9EVbqZH52Y2JZ" # 您的 Token
     message = "INST682 有空位了"     # 要發送的訊息
     post_data(message, token)
